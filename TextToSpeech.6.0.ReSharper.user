@@ -1,0 +1,248 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:ServiceReferences.ClientConfig" caret="0" fromTop="0" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:HawaiiClient.cs" caret="712" fromTop="20" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:Constant.cs" caret="885" fromTop="20" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/d:Service References/d:ServiceReference1/f:Reference.cs" caret="109654" fromTop="1840" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:Verbot.cs" caret="5328" fromTop="52" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:wpText2Speech.xaml.cs" caret="2941" fromTop="0" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml.cs" caret="1639" fromTop="9" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:wpText2Speech.xaml" caret="6892" fromTop="25" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml" caret="1710" fromTop="7" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:App.xaml.cs" caret="1119" fromTop="14" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:PhoneTask.cs" caret="635" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml" caret="2002" fromTop="12" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:wpText2Speech.xaml" caret="1676" fromTop="18" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml.cs" caret="2265" fromTop="28" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:App.xaml.cs" caret="1120" fromTop="14" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml.cs" caret="2496" fromTop="14" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml" caret="3164" fromTop="26" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml" caret="1710" fromTop="7" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:PhoneTask.cs" caret="444" fromTop="12" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml.cs" caret="699" fromTop="10" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:PhoneTask.cs" caret="2205" fromTop="23" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml.cs" caret="1824" fromTop="14" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml.cs" caret="1403" fromTop="14" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml.cs" caret="1203" fromTop="10" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:wpText2Speech.xaml.cs" caret="26649" fromTop="17" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:wpText2Speech.xaml.cs" caret="26496" fromTop="13" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:wpText2Speech.xaml.cs" caret="26260" fromTop="7" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:wpText2Speech.xaml.cs" caret="25997" fromTop="0" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:PhoneTask.cs" caret="2514" fromTop="21" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:PhoneTask.cs" caret="1459" fromTop="3" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml.cs" caret="2226" fromTop="24" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:PhoneTask.cs" caret="2062" fromTop="18" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml.cs" caret="981" fromTop="8" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:wpText2Speech.xaml.cs" caret="25966" fromTop="16" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:PhoneTask.cs" caret="2384" fromTop="16" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:PhoneTask.cs" caret="1780" fromTop="17" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:PhoneTask.cs" caret="1816" fromTop="18" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:wpText2Speech.xaml.cs" caret="2941" fromTop="19" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:RecognizedSpeechPage.xaml.cs" caret="3037" fromTop="9" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:wpText2Speech.xaml" caret="6892" fromTop="25" />
+      <File id="5F9B41A3-9071-466B-9955-6D82DFD0951D/f:PhoneTask.cs" caret="635" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="void" priority="319" />
+      <Item value="protected" priority="63" />
+      <Item value="string" priority="981" />
+      <Item value="SpeakFromText`0" priority="95" />
+      <Item value="result" priority="416" />
+      <Item value="ItemCollection`0" priority="31" />
+      <Item value="foreach" priority="63" />
+      <Item value="item" priority="63" />
+      <Item value="new" priority="319" />
+      <Item value="if" priority="287" />
+      <Item value="question" priority="127" />
+      <Item value="q" priority="31" />
+      <Item value="int" priority="95" />
+      <Item value="Length" priority="54" />
+      <Item value="break" priority="159" />
+      <Item value="var" priority="351" />
+      <Item value="r" priority="63" />
+      <Item value="i" priority="63" />
+      <Item value="AnswerFromText`0" priority="31" />
+      <Item value="const" priority="95" />
+      <Item value="strDonotknow" priority="31" />
+      <Item value="private" priority="95" />
+      <Item value="bool" priority="63" />
+      <Item value="true" priority="59" />
+      <Item value="clearListButton" priority="31" />
+      <Item value="RecognizeSpeech`0" priority="31" />
+      <Item value="public" priority="255" />
+      <Item value="this" priority="31" />
+      <Item value="FirstFocusSpeechText" priority="31" />
+      <Item value="false" priority="31" />
+      <Item value="SoundInstance" priority="31" />
+      <Item value="SoundState`0" priority="31" />
+      <Item value="MicrophoneState`0" priority="31" />
+      <Item value="stInput" priority="31" />
+      <Item value="case" priority="191" />
+      <Item value="switch" priority="31" />
+      <Item value="static" priority="222" />
+      <Item value="Constant`0" priority="255" />
+      <Item value="OnOpenSMS`0" priority="31" />
+      <Item value="OnOpenEmail`0" priority="31" />
+      <Item value="OnOpenBrowser`0" priority="31" />
+      <Item value="name" priority="288" />
+      <Item value="MessageBox`0" priority="31" />
+      <Item value="e" priority="31" />
+      <Item value="PhoneTask`0" priority="191" />
+      <Item value="return" priority="255" />
+      <Item value="cmd" priority="63" />
+      <Item value="ret" priority="31" />
+      <Item value="Response`0" priority="31" />
+      <Item value="HawaiiClient`0" priority="31" />
+      <Item value="List&lt;string&gt;" priority="28" />
+      <Item value="ProcessPageSpeechToText`0" priority="31" />
+      <Item value="RecognizingProgress" priority="31" />
+      <Item value="Visibility" priority="63" />
+      <Item value="newApp" priority="31" />
+      <Item value="ConnectionSettingsTask" priority="28" />
+      <Item value="connection" priority="31" />
+      <Item value="PhoneTask" priority="57" />
+      <Item value="app" priority="31" />
+      <Item value="CameraCaptureTask" priority="29" />
+      <Item value="BingMapsTask" priority="28" />
+      <Item value="Center" priority="26" />
+      <Item value="System" priority="28" />
+      <Item value="SaveContactTask" priority="28" />
+      <Item value="contact" priority="63" />
+      <Item value="object" priority="31" />
+      <Item value="source" priority="31" />
+      <Item value="questBase" priority="31" />
+      <Item value="knowledBase" priority="31" />
+      <Item value="#region" priority="31" />
+      <Item value="#endregion" priority="31" />
+      <Item value="List" priority="31" />
+      <Item value="App`0" priority="95" />
+      <Item value="phone" priority="31" />
+      <Item value="number" priority="226" />
+      <Item value="Contact`0" priority="31" />
+      <Item value="else" priority="63" />
+      <Item value="Page`0" priority="31" />
+      <Item value="SearchContact`0" priority="31" />
+      <Item value="NavigationService" priority="31" />
+      <Item value="GetPhoneNumber`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="IndexOf`0" priority="55" />
+      <Item value="ToUpper`0" priority="26" />
+      <Item value="ToLower`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpeechRecognitionTestClient.HawaiiClient">
+      <Item value="DictationDefault" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TextToSpeech.wpText2Speech">
+      <Item value="SpeechDomainsList" priority="26" />
+      <Item value="SpeakProgress" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="ClearValue`0" priority="26" />
+      <Item value="Items" priority="80" />
+      <Item value="SelectedItem" priority="27" />
+      <Item value="SelectedIndex" priority="27" />
+      <Item value="SelectedValue" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Clear`0" priority="53" />
+      <Item value="Count`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Audio.SoundEffectInstance">
+      <Item value="State" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Audio.SoundState">
+      <Item value="Stopped" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Visibility">
+      <Item value="Collapsed" priority="83" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TextToSpeech.Constant">
+      <Item value="Sms" priority="27" />
+      <Item value="Email" priority="27" />
+      <Item value="Browser" priority="27" />
+      <Item value="Quit" priority="49" />
+      <Item value="Run" priority="26" />
+      <Item value="Open" priority="26" />
+      <Item value="Exit" priority="26" />
+      <Item value="Camera" priority="27" />
+      <Item value="Search" priority="27" />
+      <Item value="Map" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Tasks.WebBrowserTask">
+      <Item value="Uri" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TextToSpeech.PhoneTask">
+      <Item value="OpenApp`0" priority="26" />
+      <Item value="OpenConnectionSettings`0" priority="26" />
+      <Item value="OnOpenMap`0" priority="26" />
+      <Item value="OnOpenPhone`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Hawaii.Services.Client.Speech.SpeechService">
+      <Item value="DefaultGrammar" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ProgressBar">
+      <Item value="Visibility" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Tasks.ConnectionSettingsTask">
+      <Item value="Show`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Tasks.SaveContactTask">
+      <Item value="HomePhone" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TextToSpeech.App">
+      <Item value="RecognizedTextObject" priority="26" />
+      <Item value="Contact" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.UserData.Contact">
+      <Item value="DisplayName" priority="26" />
+      <Item value="PhoneNumbers" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TextToSpeech.PhoneTask">
+      <Item value="MemberwiseClone`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Navigation.NavigationService">
+      <Item value="GoBack`0" priority="22" />
+      <Item value="Navigate`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,18 @@
+﻿<xapCache source="D:\WP7\Project\TextToSpeech\TextToSpeech\Bin\Debug\TextToSpeech.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="11/24/2011 10:36:22 AM">
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11/18/2011 4:22:08 PM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\Background.png" archivePath="Background.png" lastWriteTime="11/19/2011 3:18:00 PM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="11/19/2011 3:18:00 PM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.dll" archivePath="TextToSpeech.dll" lastWriteTime="11/24/2011 10:36:21 AM" />
+  <file source="D:\WP7\Project\libs\speechToText\ClientLibraryBase.dll" archivePath="ClientLibraryBase.dll" lastWriteTime="11/17/2011 11:48:04 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="9/15/2011 3:36:26 PM" />
+  <file source="D:\WP7\Project\libs\speechToText\SpeechRecognitionClientLibrary.dll" archivePath="SpeechRecognitionClientLibrary.dll" lastWriteTime="11/17/2011 11:48:05 PM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\Images\play.png" archivePath="Images\play.png" lastWriteTime="11/19/2011 1:01:42 PM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\Images\recognize.png" archivePath="Images\recognize.png" lastWriteTime="11/19/2011 1:01:42 PM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\Images\record.png" archivePath="Images\record.png" lastWriteTime="11/19/2011 1:01:42 PM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\Images\stop.png" archivePath="Images\stop.png" lastWriteTime="11/19/2011 1:01:42 PM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\speak.jpg" archivePath="speak.jpg" lastWriteTime="9/25/2011 11:00:28 AM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="6/20/2011 5:19:10 PM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="9/20/2011 10:39:28 PM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/19/2011 1:10:46 PM" />
+  <file source="D:\WP7\Project\TextToSpeech\TextToSpeech\Bin\Debug\speak.jpg" archivePath="speak.jpg" lastWriteTime="9/25/2011 11:00:28 AM" />
+</xapCache>
